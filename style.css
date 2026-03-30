@@ -1,0 +1,18 @@
+/* Adicionar aqui toda a estilização criada para sua aplicação. */
+.body{
+    background-image: url("https://images.unsplash.com/photo-1464925257126-6450e871c667?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI1fHx8ZW58MHx8fHx8");
+    background-size: cover;
+
+
+}
+.conteiner{
+display: flex;
+/*background-image: url("");*/
+    text-align: center;
+    justify-content: center;
+    background-color: turquoise ;  
+    height: fit-content;
+     border: solid 3px rgb(5, 5, 7);
+margin: 30px;
+
+}
